@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060492697097",
+    "firebase_url": "https://filmlerdb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "filmlerdb",
+    "storage_bucket": "filmlerdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060492697097:android:32fe6ed0aaa91e430f22d8",
+        "android_client_info": {
+          "package_name": "com.example.filmler_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060492697097-t0n7dn0a9i5kpuqa4pkchmlsu4qsu3p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwrYgQdMQHuMYGoQaMQjxbkW3IH2esup8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060492697097-t0n7dn0a9i5kpuqa4pkchmlsu4qsu3p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
