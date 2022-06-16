@@ -15,6 +15,7 @@ class FilmlerSayfa extends StatefulWidget {
   @override
   _FilmlerSayfaState createState() => _FilmlerSayfaState();
 }
+// Basılı tuttuğumda dosya okuma islemi yapar.
 
 class _FilmlerSayfaState extends State<FilmlerSayfa> {
   var refFilmler = FirebaseDatabase.instance.ref().child("filmler");
