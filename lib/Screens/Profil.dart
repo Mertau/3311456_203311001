@@ -38,7 +38,7 @@ class _ProfilState extends State<Profil> {
     _bilgileriGuncelle();
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Profile Challenge 01',
+      title: 'Profil',
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.blue,
